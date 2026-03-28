@@ -5,7 +5,6 @@ This project demonstrates a series of Bash scripts that inspect, analyze, and re
 
 All scripts are **fully executable from the terminal** in a Linux environment. No GUI setup is required.
 
----
 
 ## 🟢 Project Overview
 
@@ -26,7 +25,6 @@ This repository contains **5 Bash scripts**:
 5. `script5.sh` — **Open Source Manifesto Generator**  
    Interactively asks 3 questions and generates a personalized OSS manifesto saved to a `.txt` file.
 
----
 
 ## 🟢 Prerequisites
 
