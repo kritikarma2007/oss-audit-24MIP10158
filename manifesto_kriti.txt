@@ -1,0 +1,34 @@
+============================================================
+  MY OPEN SOURCE MANIFESTO
+  Generated on: 28 March 2026
+  By: kriti
+============================================================
+
+  Every day, I rely on python — a piece of software that
+  someone built, tested, and shared with the world at no
+  cost and with no restrictions. That act of sharing is
+  not just generosity. It is a statement about how
+  knowledge should move through the world.
+
+  To me, freedom means Choice. In the context of software,
+  that freedom is not abstract. It means I can read the
+  code that powers my tools. I can understand it, question
+  it, and change it. A program I cannot read is a program
+  I have not truly been given — I have only been lent it,
+  on terms I did not set and cannot change.
+
+  I commit that when I build A learning app, I will share it.
+  Not because I am required to. Not because it earns me
+  credit. But because the tools I used to build it were
+  shared with me by people I will never meet, and the
+  only honest response to that gift is to pass it forward.
+
+  Open source is not a license. It is a philosophy.
+  It says that what we build together is stronger than
+  what any one of us could build alone — and that the
+  measure of a tool is not what it costs, but what it
+  enables others to do.
+
+============================================================
+  Chosen Software for OSS Audit: Python (PSF License)
+============================================================
